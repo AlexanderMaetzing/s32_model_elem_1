@@ -1,0 +1,654 @@
+{ "oscar": 
+          [
+            {
+              "oscYear": "1934",
+              "oscNumber": 7,
+              "oscDate": "27.02.1935",
+              "oscBestFilm": "It Happened One Night",
+              "oscBestFilmComp": 12,
+              "oscBestDir": "Frank Capra",
+              "oscBestDirComp": 3,
+              "oscMaleLead": "Clark Gable",
+              "oscBestMaleLeadComp": 3,
+              "oscFemaleLead": "Claudette Colbert",
+              "oscBestFemaleLeadComp": 3,
+              "oscSong": [
+                           { "name": "The Continental",
+                             "artist": "Ginger Rogers",
+                             "film": "The Gay Divorcee",
+                             "status": "Won"
+                           },
+                           { "name": "Carioca",
+                             "artist": "Alice Gentle & Movita Castaneda & Etta Moten",
+                             "film": "Flying Down to Rio",
+                             "status": "Nominated"
+                           },
+                           { "name": "Love in Bloom",
+                             "artist": "Bing Crosby & Kitty Carlisle",
+                             "film": "She Loves Me Not",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1935",
+              "oscNumber": 8,
+              "oscDate": "05.03.1936",
+              "oscBestFilm": "Mutiny on the Bounty",
+              "oscBestFilmComp": 12,
+              "oscBestDir": "John Ford",
+              "oscBestDirComp": 4,
+              "oscMaleLead": "Victor McLaglen",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Bette Davis",
+              "oscBestFemaleLeadComp": 6,
+              "oscSong": [
+                           { "name": "Lullaby of Broadway",
+                             "artist": "Wini Shaw",
+                             "film": "Gold Diggers of 1935",
+                             "status": "Won"
+                           },
+                           { "name": "Lovely to Look at",
+                             "artist": "Irene Dunne",
+                             "film": "Roberta",
+                             "status": "Nominated"
+                           },
+                           { "name": "Cheek to Cheek",
+                             "artist": "Fred Astaire",
+                             "film": "Top Hat",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1936",
+              "oscNumber": 9,
+              "oscDate": "04.03.1937",
+              "oscBestFilm": "The Great Ziegfeld",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "Frank Capra",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Paul Muni",
+              "oscBestMaleLeadComp": 6,
+              "oscFemaleLead": "Luise Rainer",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "The Way You Look Tonight",
+                             "artist": "Fred Astaire",
+                             "film": "Swing Time",
+                             "status": "Won"
+                           },
+                           { "name": "I've Got You Under My Skin",
+                             "artist": "Virginia Bruce",
+                             "film": "Born to Dance",
+                             "status": "Nominated"
+                           },
+                           { "name": "Pennies from Heaven",
+                             "artist": "Bing Crosby",
+                             "film": "Pennies from Heaven",
+                             "status": "Nominated"
+                           },
+                           { "name": "When Did You Leave Heaven",
+                             "artist": "Tony Martin",
+                             "film": "Sing, Baby, Sing",
+                             "status": "Nominated"
+                           },
+                           { "name": "Did I Remember",
+                             "artist": "Jean Harlow & Cary Grant",
+                             "film": "Suzy",
+                             "status": "Nominated"
+                           },
+                           { "name": "A Melody from the Sky",
+                             "artist": "Fuzzy Knight & Henry Fonda",
+                             "film": "The Trail of the Lonesome Pine",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1937",
+              "oscNumber": 10,
+              "oscDate": "10.03.1938",
+              "oscBestFilm": "The Life of Emile Zola",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "Leo McCarey",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Spencer Tracy",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Luise Rainer",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "Sweet Leilani",
+                             "artist": "Bing Crosby",
+                             "film": "Waikiki Wedding",
+                             "status": "Won"
+                           },
+                           { "name": "Whispers in the Dark",
+                             "artist": "Connie Boswell (o  Andre Kostelanetz)",
+                             "film": "Artists and Models",
+                             "status": "Nominated"
+                           },
+                           { "name": "Remember Me",
+                             "artist": "Kenny Baker",
+                             "film": "Mr. Dodd Takes the Air",
+                             "status": "Nominated"
+                           },
+                           { "name": "They Can't Take That Away from Me",
+                             "artist": "Fred Astaire",
+                             "film": "Shall We Dance",
+                             "status": "Nominated"
+                           },
+                           { "name": "That Old Feeling",
+                             "artist": "Virginia Verrill",
+                             "film": "Vogues of 1938",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1938",
+              "oscNumber": 11,
+              "oscDate": "23.02.1939",
+              "oscBestFilm": "You Can't Take It with You",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "Frank Capra",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Spencer Tracy",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Bette Davis",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "Thanks for the Memory",
+                             "artist": "Bob Hope & Shirley Ross",
+                             "film": "The Big Broadcast of 1938",
+                             "status": "Won"
+                           },
+                           { "name": "Always and Always",
+                             "artist": "Joan Crawford",
+                             "film": "Mannequin",
+                             "status": "Nominated"
+                           },
+                           { "name": "Change Partners",
+                             "artist": "Fred Astaire",
+                             "film": "Carefree",
+                             "status": "Nominated"
+                           },
+                           { "name": "The Cowboy and the Lady",
+                             "artist": "Gary Cooper & Merle Oberon & Cast",
+                             "film": "The Cowboy and the Lady",
+                             "status": "Nominated"
+                           },
+                           { "name": "Dust",
+                             "artist": "Roy Rogers",
+                             "film": "Under Western Stars",
+                             "status": "Nominated"
+                           },
+                           { "name": "Jeepers Creepers",
+                             "artist": "Louis Armstrong",
+                             "film": "Going Places",
+                             "status": "Nominated"
+                           },
+                           { "name": "Merrily We Live",
+                             "artist": "MGM Chorus",
+                             "film": "Merrily We Live",
+                             "status": "Nominated"
+                           },
+                           { "name": "A Mist over the Moon",
+                             "artist": "Lanny Ross",
+                             "film": "The Lady Objects",
+                             "status": "Nominated"
+                           },
+                           { "name": "My Own",
+                             "artist": "Deanna Durbin",
+                             "film": "That Certain Age",
+                             "status": "Nominated"
+                           },
+                           { "name": "Now It Can Be Told",
+                             "artist": "Alice Faye",
+                             "film": "Alexander's Ragtime Band",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1939",
+              "oscNumber": 12,
+              "oscDate": "29.02.1940",
+              "oscBestFilm": "Gone With the Wind",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "Victor Fleming",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Robert Donat",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Vivien Leigh",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "Over the Rainbow",
+                             "artist": "Judy Garland",
+                             "film": "The Wizard of Oz",
+                             "status": "Won"
+                           },
+                           { "name": "Faithful Forever",
+                             "artist": "Jessica Dragonette & Lanny Ross",
+                             "film": "Gulliver's Travels",
+                             "status": "Nominated"
+                           },
+                           { "name": "I Poured My Heart into a Song",
+                             "artist": "Rudy Vallee",
+                             "film": "Second Fiddle",
+                             "status": "Nominated"
+                           },
+                           { "name": "Wishing",
+                             "artist": "Robert Mitchell Boy Choir",
+                             "film": "Love Affair",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1940",
+              "oscNumber": 13,
+              "oscDate": "27.02.1941",
+              "oscBestFilm": "Rebecca",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "John Ford",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "James Stewart",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Ginger Rogers",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "When You Wish Upon a Star",
+                             "artist": "Cliff Edwards",
+                             "film": "Pinocchio",
+                             "status": "Won"
+                           },
+                           { "name": "Down Argentine Way",
+                             "artist": "Don Ameche & Betty Grable",
+                             "film": "Down Argentine Way",
+                             "status": "Nominated"
+                           },
+                           { "name": "I'd Know You Anywhere",
+                             "artist": "Ginny Simms",
+                             "film": "You'll Find Out",
+                             "status": "Nominated"
+                           },
+                           { "name": "It's a Blue World",
+                             "artist": "Tony Martin",
+                             "film": "Music in My Heart",
+                             "status": "Nominated"
+                           },
+                           { "name": "Love of My Life",
+                             "artist": "Fred Astaire",
+                             "film": "Second Chorus",
+                             "status": "Nominated"
+                           },
+                           { "name": "Only Forever",
+                             "artist": "Bing Crosby & Mary Martin",
+                             "film": "Rhythm on the River",
+                             "status": "Nominated"
+                           },
+                           { "name": "Our Love Affair",
+                             "artist": "Judy Garland & Mickey Rooney",
+                             "film": "Strike Up the Band",
+                             "status": "Nominated"
+                           },
+                           { "name": "Waltzing in the Clouds",
+                             "artist": "Deanna Durbin",
+                             "film": "Spring Parade",
+                             "status": "Nominated"
+                           },
+                           { "name": "Who Am I?",
+                             "artist": "Frances Langford & Kenny Baker",
+                             "film": "Hit Parade of 1941",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1941",
+              "oscNumber": 14,
+              "oscDate": "26.02.1942",
+              "oscBestFilm": "How Green Was My Valley",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "John Ford",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Gary Cooper",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Joan Fontaine",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "The Last Time I Saw Paris",
+                             "artist": "Ann Sothern",
+                             "film": "Lady Be Good",
+                             "status": "Won"
+                           },
+                           { "name": "Baby Mine",
+                             "artist": "Betty Noyes",
+                             "film": "Dumbo",
+                             "status": "Nominated"
+                           },
+                           { "name": "Be Honest With Me",
+                             "artist": "Gene Autry",
+                             "film": "Ridin' on a Rainbow",
+                             "status": "Nominated"
+                           },
+                           { "name": "Blues in the Night",
+                             "artist": "William Gillespie",
+                             "film": "Blues in the Night",
+                             "status": "Nominated"
+                           },
+                           { "name": "Boogie Woogie Bugle Boy of Company B",
+                             "artist": "The Andrews Sisters",
+                             "film": "Buck Privates",
+                             "status": "Nominated"
+                           },
+                           { "name": "Chattanooga Choo Choo",
+                             "artist": "Glenn Miller & His Orchestra",
+                             "film": "Sun Valley Serenade",
+                             "status": "Nominated"
+                           },
+                           { "name": "Dolores",
+                             "artist": "Tommy Dorsey & His Orchstra (v Bert Wheeler)",
+                             "film": "Las Vegas Nights",
+                             "status": "Nominated"
+                           },
+                           { "name": "Out of the Silence",
+                             "artist": "Frances Langford",
+                             "film": "All-American Co-Ed",
+                             "status": "Nominated"
+                           },
+                           { "name": "Since I Kissed My Baby Goodbye",
+                             "artist": "The Four Tones & Fred Astaire",
+                             "film": "You'll Never Get Rich",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1942",
+              "oscNumber": 15,
+              "oscDate": "04.03.1943",
+              "oscBestFilm": "Mrs. Miniver",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "William Wyler",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "James Cagney",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Greer Garson",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "White Christmas",
+                             "artist": "Bing Crosby & Marjorie Reynolds",
+                             "film": "Holiday Inn",
+                             "status": "Won"
+                           },
+                           { "name": "Always in My Heart",
+                             "artist": "Gloria Warren",
+                             "film": "Always in My Heart",
+                             "status": "Nominated"
+                           },
+                           { "name": "Dearly Beloved",
+                             "artist": "Fred Astaire & Rita Hayworth",
+                             "film": "You Were Never Lovelier",
+                             "status": "Nominated"
+                           },
+                           { "name": "How About You?",
+                             "artist": "Judy Garland & Mickey Rooney",
+                             "film": "Babes on Broadway",
+                             "status": "Nominated"
+                           },
+                           { "name": "I've Heard That Song Before",
+                             "artist": "Martha O'Driscoll",
+                             "film": "Youth on Parade",
+                             "status": "Nominated"
+                           },
+                           { "name": "(I've Got a Gal in) Kalamazoo",
+                             "artist": "Glenn Miller & His Orchestra",
+                             "film": "Orchestra Wives",
+                             "status": "Nominated"
+                           },
+                           { "name": "Love Is a Song",
+                             "artist": "Donald Novis",
+                             "film": "Bambi",
+                             "status": "Nominated"
+                           },
+                           { "name": "Pennies for Peppino",
+                             "artist": "MGM-Chorus",
+                             "film": "Flying with Music",
+                             "status": "Nominated"
+                           },
+                           { "name": "Pig Foot Pete",
+                             "artist": "Martha Raye",
+                             "film": "Hellzapoppin' [Keep 'em Flying]",
+                             "status": "Nominated"
+                           },
+                           { "name": "When There's a Breeze on Lake Louise",
+                             "artist": "Anne Shirley",
+                             "film": "The Mayor of 44th Street",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1943",
+              "oscNumber": 16,
+              "oscDate": "19.03.1944",
+              "oscBestFilm": "Casablanca",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "Michael Curtiz",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Paul Lukas",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Jennifer Jones",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "You'll Never Know",
+                             "artist": "Alice Faye",
+                             "film": "Hello, Frisco, Hello",
+                             "status": "Won"
+                           },
+                           { "name": "Change of Heart",
+                             "artist": "John Carroll & Susan Hayward",
+                             "film": "Hit Parade of 1943",
+                             "status": "Nominated"
+                           },
+                           { "name": "Happiness is a Thing Called Joe",
+                             "artist": "Ethel Waters",
+                             "film": "Cabin in the Sky",
+                             "status": "Nominated"
+                           },
+                           { "name": "My Shining Hour",
+                             "artist": "Joan Leslie",
+                             "film": "The Sky's the Limit",
+                             "status": "Nominated"
+                           },
+                           { "name": "Saludos Amigos",
+                             "artist": "Walt Disney Chorus",
+                             "film": "Saludos Amigos",
+                             "status": "Nominated"
+                           },
+                           { "name": "Say a Prayer for the Boys Over There",
+                             "artist": "Deanna Durbin",
+                             "film": "Hers to Hold",
+                             "status": "Nominated"
+                           },
+                           { "name": "That Old Black Magic",
+                             "artist": "Johnny Johnston",
+                             "film": "Star Spangled Rhythm",
+                             "status": "Nominated"
+                           },
+                           { "name": "They're Either Too Young or Too Old",
+                             "artist": "Bette Davis",
+                             "film": "Thank Your Lucky Stars",
+                             "status": "Nominated"
+                           },
+                           { "name": "We Mustn't Say Good Bye",
+                             "artist": "???",
+                             "film": "Stage Door Canteen",
+                             "status": "Nominated"
+                           },
+                           { "name": "You'd Be So Nice to Come Home To",
+                             "artist": "Janet Blair & Don Ameche",
+                             "film": "Something to Shout About",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1944",
+              "oscNumber": 17,
+              "oscDate": "15.03.1945",
+              "oscBestFilm": "Going My Way",
+              "oscBestFilmComp": 10,
+              "oscBestDir": "Leo McCarey",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Bing Crosby",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Ingrid Bergman",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "Swinging on a Star",
+                             "artist": "Bing Crosby",
+                             "film": "Going My Way",
+                             "status": "Won"
+                           },
+                           { "name": "I Couldn't Sleep a Wink Last Night",
+                             "artist": "Frank Sinatra",
+                             "film": "Higher and Higher",
+                             "status": "Nominated"
+                           },
+                           { "name": "I'll Walk Alone",
+                             "artist": "Dinah Shore",
+                             "film": "Follow the Boys",
+                             "status": "Nominated"
+                           },
+                           { "name": "I'm Making Believe",
+                             "artist": "Benny Goodman & His Orchestra (v Lynn Bari)",
+                             "film": "Sweet and Low-Down",
+                             "status": "Nominated"
+                           },
+                           { "name": "Long Ago (and Far Away)",
+                             "artist": "Rita Hayworth & Gene Kelly",
+                             "film": "Cover Girl",
+                             "status": "Nominated"
+                           },
+                           { "name": "Now I Know",
+                             "artist": "???",
+                             "film": "Up in Arms",
+                             "status": "Nominated"
+                           },
+                           { "name": "Remember Me to Carolina",
+                             "artist": "???",
+                             "film": "Minstrel Man",
+                             "status": "Nominated"
+                           },
+                           { "name": "Rio de Janeiro",
+                             "artist": "Tito Guizar",
+                             "film": "Brazil",
+                             "status": "Nominated"
+                           },
+                           { "name": "Silver Shadows and Golden Dreams",
+                             "artist": "Mitch Ayres & His Band (v Johnny Bond)",
+                             "film": "Lady, Let's Dance",
+                             "status": "Nominated"
+                           },
+                           { "name": "Too Much in Love",
+                             "artist": "???",
+                             "film": "Song of the Open Road",
+                             "status": "Nominated"
+                           },
+                           { "name": "The Trolley Song",
+                             "artist": "Judy Garland",
+                             "film": "Meet Me in St. Louis",
+                             "status": "Nominated"
+                           }
+                         ]
+            },
+            {
+              "oscYear": "1945",
+              "oscNumber": 18,
+              "oscDate": "07.03.1946",
+              "oscBestFilm": "The Lost Weekend",
+              "oscBestFilmComp": 5,
+              "oscBestDir": "Billy Wilder",
+              "oscBestDirComp": 5,
+              "oscMaleLead": "Ray Milland",
+              "oscBestMaleLeadComp": 5,
+              "oscFemaleLead": "Joan Crawford",
+              "oscBestFemaleLeadComp": 5,
+              "oscSong": [
+                           { "name": "It Might as Well Be Spring",
+                             "artist": "???",
+                             "film": "State Fair",
+                             "status": "Won"
+                           },
+                           { "name": "Ac-Cent-Tchu-Ate the Positive",
+                             "artist": "Bing Crosby",
+                             "film": "Here Come the Waves",
+                             "status": "Nominated"
+                           },
+                           { "name": "Anywhere",
+                             "artist": "???",
+                             "film": "Tonight and Every Night",
+                             "status": "Nominated"
+                           },
+                           { "name": "Aren't You Glad You're You?",
+                             "artist": "Bing Crosby",
+                             "film": "The Bells of St. Mary's",
+                             "status": "Nominated"
+                           },
+                           { "name": "The Cat and the Canary",
+                             "artist": "Pamela Blake",
+                             "film": "Why Girls Leave Home",
+                             "status": "Nominated"
+                           },
+                           { "name": "Endlessly",
+                             "artist": "Constance Moore",
+                             "film": "Earl Carroll Vanities",
+                             "status": "Nominated"
+                           },
+                           { "name": "I Fall in Love Too Easily",
+                             "artist": "Frank Sinatra",
+                             "film": "Anchors Aweigh",
+                             "status": "Nominated"
+                           },
+                           { "name": "I'll Buy That Dream",
+                             "artist": "???",
+                             "film": "Sing Your Way Home",
+                             "status": "Nominated"
+                           },
+                           { "name": "Linda",
+                             "artist": "Pat Friday",
+                             "film": "The Story of G.I. Joe",
+                             "status": "Nominated"
+                           },
+                           { "name": "Love Letters",
+                             "artist": "Victor Young & His Concert Orchestra",
+                             "film": "Love Letters",
+                             "status": "Nominated"
+                           },
+                           { "name": "More and More",
+                             "artist": "Deanna Durbin",
+                             "film": "Can't Help Singing",
+                             "status": "Nominated"
+                           },
+                           { "name": "Sleighride in July",
+                             "artist": "Dinah Shore",
+                             "film": "Belle of the Yukon",
+                             "status": "Nominated"
+                           },
+                           { "name": "So in Love",
+                             "artist": "Vera-Ellen",
+                             "film": "Wonder Man",
+                             "status": "Nominated"
+                           },
+                           { "name": "Some Sunday Morning",
+                             "artist": "Alexis Smith",
+                             "film": "San Antonio",
+                             "status": "Nominated"
+                           }
+                         ]
+            }
+          ] 
+}

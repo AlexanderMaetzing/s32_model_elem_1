@@ -1,0 +1,87 @@
+<mvc:View controllerName="ama.s32.s32modelelem1.controller.Main"
+	xmlns:html="http://www.w3.org/1999/xhtml" 
+	xmlns:mvc="sap.ui.core.mvc" 
+	xmlns:t="sap.ui.table" 	
+	xmlns="sap.m">
+			<Page id="pag01" title="{i18n>title}">
+				<content>
+					<Table id="table0" items="{/oscar}" mode="SingleSelectMaster" >
+						<items>
+							<ColumnListItem type="Active" id="item0">
+								<cells>
+									<Text text="{oscYear}" id="text0"/>
+									<Text text="{oscBestFilm}" id="text1"/>
+									<Text text="{oscBestDir}" id="text2"/>
+									<Text text="{oscMaleLead}" id="text3"/>
+									<Text text="{oscFemaleLead}" id="text4"/>
+								</cells>
+							</ColumnListItem>
+						</items>
+						<columns>
+							<Column id="column0">
+								<header>
+									<Label text="Jahr" id="label0"/>
+								</header>
+							</Column>
+							<Column id="column1">
+								<header>
+									<Label text="Film" id="label1"/>
+								</header>
+							</Column>
+							<Column id="column2">
+								<header>
+									<Label text="Regisseur" id="label2"/>
+								</header>
+							</Column>
+							<Column id="column3">
+								<header>
+									<Label text="Männl. Hauptdarsteller" id="label3"/>
+								</header>
+							</Column>
+							<Column id="column4">
+								<header>
+									<Label text="Weibl. Hauptdarsteller" id="label4"/>
+								</header>
+							</Column>
+						</columns>
+					</Table>
+
+					<t:Table id="table1" rows="{oscSong}">
+						<t:columns>
+							<t:Column id="col10">
+								<t:label>
+									<Label text="Titel" id="label10"/>
+								</t:label>
+								<t:template>
+									<Text text="{name}" id="text10"/>
+								</t:template>
+							</t:Column>
+							<t:Column id="col11">
+								<t:label>
+									<Label text="Interpret" id="label11"/>
+								</t:label>
+								<t:template>
+									<Text text="{artist}" id="text11"/>
+								</t:template>
+							</t:Column>
+							<t:Column id="col12">
+								<t:label>
+									<Label text="Film" id="label12"/>
+								</t:label>
+								<t:template>
+									<Text text="{film}" id="text12"/>
+								</t:template>
+							</t:Column>
+							<t:Column id="col13">
+								<t:label>
+									<Label text="Status" id="label13"/>
+								</t:label>
+								<t:template>
+									<Text text="{status}" id="text13"/>
+								</t:template>
+							</t:Column>
+						</t:columns>
+					</t:Table>
+				</content>
+			</Page>
+</mvc:View>
